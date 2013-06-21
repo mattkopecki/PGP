@@ -1,7 +1,10 @@
-Thanks to Robert Sosinski for <a href="http://www.robertsosinski.com/2008/02/18/working-with-pgp-and-mac-os-x/">this tutorial</a>, reproduced below:   
+To contact me securely, copy my public key by either cloning the repository or downloading the <a href="https://github.com/mattkopecki/PGP/archive/master.zip">zip</a>
+
+For those unfimiliar with PGP or looking for instructions to get set up themselves, take a look at <a href="http://www.robertsosinski.com/2008/02/18/working-with-pgp-and-mac-os-x/">this tutorial</a> written by Robert Sosinski, which I have reproduced below:
+
 <h2>Working with PGP and Mac OS X</h2>
-        
-        
+
+
 <p><span class="caps">PGP</span>, or Pretty Good Privacy, is a commonly used and very secure encryption program using public key cryptography.  Through <span class="caps">PGP</span>, you can encrypt information such as messages, documents and files in a manner so that only the recipient can decrypt and open them.</p>
 <p>The goal of this tutorial is to get you up and running with <span class="caps">PGP</span> through terminal and familiar with its operation.</p>
 <h3>An Encryption Primer</h3>
