@@ -1,4 +1,4 @@
-To contact me securely, copy my public key by either cloning the repository or downloading the <a href="https://github.com/mattkopecki/PGP/archive/master.zip">zip</a>
+To contact me securely, copy my public key (the file publickey.asc, above) by either cloning the repository or downloading the <a href="https://github.com/mattkopecki/PGP/archive/master.zip">zip.</a> The key should also be available on PGP key servers and searchable by my name or email.
 
 For those unfimiliar with PGP or looking for instructions to get set up themselves, take a look at <a href="http://www.robertsosinski.com/2008/02/18/working-with-pgp-and-mac-os-x/">this tutorial</a> written by Robert Sosinski, which I have reproduced below:
 
